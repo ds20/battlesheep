@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.10</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.0.41 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>COMP 460</Company_Name>
+		<Address_1>6100 Main St</Address_1>
+		<Address_2 />
+		<City_Town>Houston</City_Town>
+		<State_Province>TX</State_Province>
+		<Zip_Postal_Code>77030</Zip_Postal_Code>
+		<Country>United States</Country>
+		<Company_WebSite_URL>http://code.google.com/p/battlesheep/</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Dragos Dumitru</Author_First_Name>
+			<Author_Last_Name>Sbirlea</Author_Last_Name>
+			<Author_Email>battlesheepgame@gmail.com</Author_Email>
+			<Contact_First_Name>Dragos Dumitru</Contact_First_Name>
+			<Contact_Last_Name>Sbirlea</Contact_Last_Name>
+			<Contact_Email>battlesheepgame@gmail.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>battlesheepgame@gmail.com</Sales_Email>
+			<Support_Email>battlesheepgame@gmail.com</Support_Email>
+			<General_Email>battlesheepgame@gmail.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>BattleSheep</Program_Name>
+		<Program_Version>1.0</Program_Version>
+		<Program_Release_Month>04</Program_Release_Month>
+		<Program_Release_Day>28</Program_Release_Day>
+		<Program_Release_Year>2010</Program_Release_Year>
+		<Program_Cost_Dollars>0</Program_Cost_Dollars>
+		<Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,WinXP,Other</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Games</Program_Specific_Category>
+		<Program_Category_Class>Games &amp; Entertainment::Action</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>33804800</File_Size_Bytes>
+			<File_Size_K>33012</File_Size_K>
+			<File_Size_MB>32.24</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>game battle sheep explosion bomberman</Keywords>
+			<Char_Desc_45>BattleSheep is  a fast paced multiplayer game</Char_Desc_45>
+			<Char_Desc_80>BattleSheep is a multiplayer game in which shepherds fight using explosive sheep</Char_Desc_80>
+			<Char_Desc_250>BattleSheep is a fast paced multiplayer game in which shepherds fight using explosive sheep like grenades.</Char_Desc_250>
+			<Char_Desc_450 />
+			<Char_Desc_2000 />
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://code.google.com/p/battlesheep/</Application_Info_URL>
+			<Application_Order_URL>http://code.google.com/p/battlesheep/</Application_Order_URL>
+			<Application_Screenshot_URL>http://code.google.com/p/battlesheep/source/browse/trunk/Resources/InGame.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://code.google.com/p/battlesheep/source/browse/trunk/Resources/logo.png</Application_Icon_URL>
+			<Application_XML_File_URL>http://code.google.com/p/battlesheep/source/browse/trunk/Resources/logo.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://battlesheep.googlecode.com/files/BattleSheepSetup.msi</Primary_Download_URL>
+			<Secondary_Download_URL>http://battlesheep.googlecode.com/files/BattleSheepSetup.msi</Secondary_Download_URL>
+			<Additional_Download_URL_1>http://battlesheep.googlecode.com/files/BattleSheepSetup.msi</Additional_Download_URL_1>
+			<Additional_Download_URL_2>http://battlesheep.googlecode.com/files/BattleSheepSetup.msi</Additional_Download_URL_2>
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>LGPL</Distribution_Permissions>
+		<EULA>LGPL</EULA>
+	</Permissions>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number />
+	</ASP>
+</XML_DIZ_INFO>

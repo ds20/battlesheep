@@ -2,14 +2,14 @@
 
 = Introduction =
 
-Watch our Youtube  Video to learn how to play BattleSheep 
+Watch our YouTube  Video to learn how to play !BattleSheep 
 http://www.youtube.com/watch?v=ueobQr9cL00
 
 = Controls =
 
 Xbox Controls:
 
-Move: LeftThumbstick
+Move: !LeftThumbstick
 Flute: A
 Shoot: Right Shoulder
 

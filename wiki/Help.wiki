@@ -3,7 +3,8 @@
 = Introduction =
 
 Watch our !YouTube  Video to learn how to play !BattleSheep 
-http://www.youtube.com/watch?v=ueobQr9cL00
+
+<wiki:video url="http://www.youtube.com/watch?v=ueobQr9cL00"/>
 
 = Controls =
 

@@ -1,8 +1,9 @@
-#summary One-sentence summary of this page.
+#summary Main help file for the BattleSheep game player
 
 = Introduction =
 
-Add your content here.
+Wath our youtube [http://www.youtube.com/watch?v=ueobQr9cL00]video to learn how to play BattleSheep:
+
 
 
 = Details =

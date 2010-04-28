@@ -8,6 +8,7 @@ http://www.youtube.com/watch?v=ueobQr9cL00
 = Controls =
 
 Xbox Controls:
+
 Move: LeftThumbstick
 Flute: A
 Shoot: Right Shoulder
@@ -17,17 +18,17 @@ Buy speed boost: Left Shoulder
 Buy health: X
 
 Keyboard controls:
+
 Move: A,S,D,W (player1), Arrow keys (player2)
 Flute: Space (player1), L (player2)
 Shoot: X (player1), K (player2)
 
 (for Gold on)
-Buy speed boost: Q(player1), O(player2)
-Buy health: E(player1), P(player2)
+Buy speed boost: Q(player1), P(player2)
+Buy health: E(player1), O(player2)
 
 Note: Keyboard controls are disabled when XBox controllers are plugged in. Use Start on player1 or Enter to select Menu option and Arrow Keys/Thumstick to move between options.
 
 = Additional Notes =
 
 Features not yet implemented: Load, Save, Controls
-
